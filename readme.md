@@ -51,7 +51,7 @@ In the end, I tried with a smaller number of requests per second to get the log 
 ![Alt text](images/3.png?raw=true "Title")
 
 ### Graphs
-Even though the script stopped running but none of the request failed to get the response.
+Even though the script stopped running but none of the requests failed to get the response. The execution time increases gradually after each time increasing the number of requests.
 
 ![Alt text](images/graph.png?raw=true "Title")
 
