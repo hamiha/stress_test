@@ -14,7 +14,7 @@ Python script to run a stress test to find out how many requests the server can 
 
 ## Run test
 ```
-cd test_script
+cd stress_test
 python3 script.py
 ```
 To change the number of tests per run or number of request increases for each test, please open the script and modify the value
