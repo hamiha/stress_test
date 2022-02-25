@@ -10,7 +10,7 @@ Python script to run a stress test to find out how many requests the server can 
 - pip csv
 - pip psycopg2
 
-> You can simply install pip packages if missing any with command 'pip install name_of_the_library'
+> You can simply install pip packages if missing any with command 'pip install name_of_the_package'
 
 ## Run test
 ```
